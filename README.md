@@ -2,7 +2,7 @@
 Chrome拡張機能
 
 
-*用語
+#用語
 
 - Browser Action(ツールバーに常駐)
 - Page Action(特定のページで起動)
