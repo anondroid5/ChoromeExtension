@@ -30,6 +30,9 @@ ex7 - そのページにアクセスすると自動で実行するContent Script
 
 ex8 - 右クリックで実行できるようにするcontextmenu
 
+#Author
+Fumihiko Akagi
+
 #Copyright
   
     The MIT License
