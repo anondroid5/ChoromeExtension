@@ -13,7 +13,7 @@ Chrome拡張機能
 
 manifest.json(これがプログラムの関係性を記述するための仕組み)
 
-#details
+#Details
 ex1 - BrowserAction
 
 ex2
